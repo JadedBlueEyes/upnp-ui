@@ -1,0 +1,8 @@
+[default]
+extend-ignore-identifiers-re = [
+    "UPnP",
+]
+
+
+[default.extend-words]
+UPnP = "UPnP"
